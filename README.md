@@ -7,6 +7,11 @@ _/  |________  _____/ ____\
  |  |  |  | \(  <_> )  |   
  |__|  |__|   \____/|__|   
 ```
+
+## Developer
+* **Trifovy** (trif, trifov)
+* **AvirIK5**
+
  
 Vell is a tool for searching by username.
 
