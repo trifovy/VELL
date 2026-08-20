@@ -17,4 +17,5 @@ Libraries used:
 *pip install colorama
 *pip install requests
 
-*python VELL.py
+*python vell.py
+
